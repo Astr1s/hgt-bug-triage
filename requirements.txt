@@ -1,0 +1,7 @@
+torch>=2.6
+torch-geometric>=2.7,<2.8
+transformers>=4.40
+scikit-learn>=1.4
+numpy>=1.26
+scipy>=1.12
+matplotlib>=3.8

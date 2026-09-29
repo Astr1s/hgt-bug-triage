@@ -1,0 +1,15 @@
+# Pipeline outputs; label maps and splits contain developer identities.
+artifacts/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
